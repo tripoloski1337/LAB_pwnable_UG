@@ -3,7 +3,7 @@
 ## Install ghidra
 
 1. download dan extract ghidra di https://ghidra-sre.org/
-2. lalu klik `ghidraRun.bat` (untuk windows) atau jalankan perintah `./ghidraRun` di terminal pada folder ghidra 
+2. lalu klik `ghidraRun.bat` (untuk windows) atau jalankan perintah `./ghidraRun` (untuk linux) di terminal pada folder ghidra 
 
 ## Install vagrant 
 
